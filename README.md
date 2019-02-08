@@ -26,7 +26,7 @@ Upon completion of the test task source code and clear instructions on how to bu
 
 ### Dependencies
 
-- Elixir 1.6 or higher
+- Elixir 1.7 or higher
 
 ### Run tests
 
